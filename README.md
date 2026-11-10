@@ -117,10 +117,8 @@ O planejamento contempla as seguintes etapas:
 
 ## Status do projeto
 
-### 1ª etapa da AEP
-
+### 1ª etapa da AEP (Planejamento e Modelagem) — Concluída
 Nesta etapa foram desenvolvidos:
-
 - Contextualização do problema;
 - Definição dos objetivos;
 - Delimitação do escopo;
@@ -135,6 +133,15 @@ Nesta etapa foram desenvolvidos:
 - Plano preliminar de testes;
 - Documentação da primeira etapa.
 
+### 2ª etapa da AEP (Implementação e Validação) — Concluída / Em Fase de Entrega
+Nesta etapa foram desenvolvidos e integrados:
+- Implementação completa do código-fonte da aplicação em Linguagem C (`src/main.c`);
+- Estruturação de registros (`struct Acao`) e manipulação de vetores na memória;
+- Menu interativo com validações de entrada e navegação contínua no terminal;
+- Funções modulares para cadastro, listagem, pesquisa por critérios, atualização de status e cálculo de percentual de atendimento no resumo;
+- Elaboração do Diagrama de Casos de Uso e especificação detalhada dos casos de uso principais;
+- Elaboração do Manual do Usuário com instruções detalhadas de compilação, execução e uso;
+- Gravação da vídeo-demonstração da aplicação e consolidação do documento final.
 ---
 
 ## Instituição
